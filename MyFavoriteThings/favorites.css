@@ -1,0 +1,24 @@
+/*
+/* Sarah Williams
+* Due Date 
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body properties here */
+
+body {
+
+}
+#softballfield {height: 400px;
+    width: 500px; /* size of softball field picture */
+}
+#boardwalk {height: 400px;
+    width: 525px; /* size of boardwalk picure */
+}
+figure {float: right;}/* image moves to right side */
